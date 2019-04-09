@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{FA018D3C-B979-423C-B13D-20B5E6F97868}|Default">
+  <MonoDevelop.Ide.ItemProperties.test-unity PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="test-unity/Utilities/CheckUrlValidity.cs">
+    <Files>
+      <File FileName="test-unity/Startup.cs" Line="35" Column="1" />
+      <File FileName="test-unity/Services/UrlShortner.cs" Line="97" Column="56" />
+      <File FileName="test-unity/Controllers/ParseUrlController.cs" Line="12" Column="43" />
+      <File FileName="test-unity/Controllers/CreateShortUrlController.cs" Line="19" Column="35" />
+      <File FileName="test-unity/Services/IUrlShortner.cs" Line="11" Column="50" />
+      <File FileName="test-unity/Data/UrlDetails.cs" Line="6" Column="48" />
+      <File FileName="test-unity/Utilities/CheckUrlValidity.cs" Line="6" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="test-unity" expanded="True">
+            <Node name="test-unity" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="Utilities" expanded="True">
+                <Node name="CheckUrlValidity.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../test-unity/Controllers/CreateShortUrlController.cs" line="7" offsetX="439" offsetY="120" expression="string" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

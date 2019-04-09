@@ -1,0 +1,14 @@
+/Users/aseemvyas/Projects/test-unity/test-unity/bin/Debug/netcoreapp2.1/test-unity.deps.json
+/Users/aseemvyas/Projects/test-unity/test-unity/bin/Debug/netcoreapp2.1/test-unity.runtimeconfig.json
+/Users/aseemvyas/Projects/test-unity/test-unity/bin/Debug/netcoreapp2.1/test-unity.runtimeconfig.dev.json
+/Users/aseemvyas/Projects/test-unity/test-unity/bin/Debug/netcoreapp2.1/test-unity.dll
+/Users/aseemvyas/Projects/test-unity/test-unity/bin/Debug/netcoreapp2.1/test-unity.pdb
+/Users/aseemvyas/Projects/test-unity/test-unity/obj/Debug/netcoreapp2.1/test-unity.csprojAssemblyReference.cache
+/Users/aseemvyas/Projects/test-unity/test-unity/obj/Debug/netcoreapp2.1/test-unity.csproj.CoreCompileInputs.cache
+/Users/aseemvyas/Projects/test-unity/test-unity/obj/Debug/netcoreapp2.1/test-unity.RazorAssemblyInfo.cache
+/Users/aseemvyas/Projects/test-unity/test-unity/obj/Debug/netcoreapp2.1/test-unity.RazorAssemblyInfo.cs
+/Users/aseemvyas/Projects/test-unity/test-unity/obj/Debug/netcoreapp2.1/test-unity.AssemblyInfoInputs.cache
+/Users/aseemvyas/Projects/test-unity/test-unity/obj/Debug/netcoreapp2.1/test-unity.AssemblyInfo.cs
+/Users/aseemvyas/Projects/test-unity/test-unity/obj/Debug/netcoreapp2.1/test-unity.RazorTargetAssemblyInfo.cache
+/Users/aseemvyas/Projects/test-unity/test-unity/obj/Debug/netcoreapp2.1/test-unity.dll
+/Users/aseemvyas/Projects/test-unity/test-unity/obj/Debug/netcoreapp2.1/test-unity.pdb
